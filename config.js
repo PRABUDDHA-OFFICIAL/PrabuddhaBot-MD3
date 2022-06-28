@@ -41,12 +41,12 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['ur number'] //ur owner number
-global.ownername = "ur name"
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
-
+ගෝලීය . හිමිකරු  = [ '94774155960' ] //අපගේ හිමිකරු අංකය
+global.ownername = "MR PRABUDDHA OFFICIAL 
+ගෝලීය . ytname  =  "WHATSAPP GROUP : https://chat.whatsapp.com/Fs5UYHFlToMJZILhJNfcB3  //ur wa chanel 
+ගෝලීය . socialm  =  "GitHub: sangithprabuwa"  //ur github හෝ insta
+ගෝලීය . ස්ථානය  =  "kalutara"  //අපගේ ස්ථානය"
+;
 //bot bombdy
 global.botname = "ur bot name" //ur bot name
 global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
