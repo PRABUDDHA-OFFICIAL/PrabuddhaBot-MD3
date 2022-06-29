@@ -53,14 +53,14 @@ global.websitex = "github.com/sangithprabuwa" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "PRABUDDHA OFFICIAL KS BOT"
 global.author = "🦄Dream Guy Xeon"
-global.themeemoji = "🐶"
-global.reactmoji = "😘"
-global.ownertag = ['ur number'] //ur owner tag
-global.ownernummenu = ['ur number'] //ur owner number in menu and all
-global.watermark = "Xeon Bot Inc." //ur watermark
-global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
-global.linkz1 = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
-global.linkz2 = "https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd"
+global.themeemoji = "🎭"
+global.reactmoji = "☬"
+global.ownertag = ['OFFICIAL PRABUDDHA '] //ur owner tag
+global.ownernummenu = ['Wa.me/94774155960'] //ur owner number in menu and all
+global.watermark = "Prabuddha Official." //ur watermark
+global.botscript = "https://githu.com/sangithprabuwa"
+global.linkz1 = "https://chat.whatsapp.com/Fs5UYHFlToMJZILhJNfcB3"
+global.linkz2 = "https://chat.whatsapp.com/Fs5UYHFlToMJZILhJNfcB3"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
