@@ -48,10 +48,10 @@ global.ownername = "MR PRABUDDHA OFFICIAL
 ගෝලීය . ස්ථානය  =  "kalutara"  //අපගේ ස්ථානය"
 ;
 //bot bombdy
-global.botname = "ur bot name" //ur bot name
-global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
+global.botname = "KS OFFICIAL BOT" //ur bot name
+global.websitex = "github.com/sangithprabuwa" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
+global.packname = "PRABUDDHA OFFICIAL KS BOT"
 global.author = "🦄Dream Guy Xeon"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
